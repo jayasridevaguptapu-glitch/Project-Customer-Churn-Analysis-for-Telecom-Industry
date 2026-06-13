@@ -104,5 +104,3 @@ Customers with high churn probability and likely to leave.
 
 This project successfully predicts customer churn and identifies the major factors affecting customer retention. The insights generated can help telecom companies reduce churn, improve customer satisfaction, and increase long-term profitability.
 
-Devaguptapu Jaya Sri
-B.Tech CSE (Data Science)
